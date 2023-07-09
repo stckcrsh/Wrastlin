@@ -1,0 +1,26 @@
+[
+	{
+		"name":"Arm Bar",
+		"tags":["Acrobat","Brawler"],
+		"type":["grapple"],
+		"text": "Arm Bar",
+		"damage":5,
+		"stagger":0
+	},
+	{
+		"name":"Strike",
+		"tags":["Brawler"],
+		"type":["strike"],
+		"text": "Strike",
+		"damage":5,
+		"stagger":2
+	},
+	{
+		"name":"Slap",
+		"tags":["Acrobat"],
+		"type":["strike"],
+		"text": "Bitch Slap",
+		"damage":5,
+		"stagger":2
+	}
+]
