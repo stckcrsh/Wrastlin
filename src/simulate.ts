@@ -1,6 +1,6 @@
-const JAKE = require('./jake-wrestleman.json');
-const JOHNNY = require('./johnny-longarms.json');
-const MOVES = require('./moves.json');
+const JAKE = require('./data/jake-wrestleman.json');
+const JOHNNY = require('./data/johnny-longarms.json');
+const MOVES = require('./data/moves.json');
 
 const createWrestler = (base) => {
 	return {

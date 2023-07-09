@@ -1,7 +1,7 @@
 {
 	"id": "0002",
-	"first_name": "johnny",
-	"last_name": "longarms",
+	"name": "Johnny Longarms",
+	"aliases": ["Johnny", "Longarms", "Stretch"],
 	"muscle": 6,
 	"recovery": 10,
 	"appendages": 6,
